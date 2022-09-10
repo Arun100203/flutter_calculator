@@ -108,7 +108,7 @@ class _MyHomeWidgetState extends State<MyHomeWidget> {
                   button("3"),
                   button("2"),
                   button("1"),
-                  button("x"),
+                  button("*"),
                 ],
               ), Row(
                 children: <Widget>[
